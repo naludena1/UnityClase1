@@ -37,10 +37,14 @@ public class Player : MonoBehaviour
         characterController.Move(transform.TransformDirection(move) * speed * Time.deltaTime);
 
         moveMouseH = Input.GetAxis("Mouse X") * speedMouseH;
-        moveMouseV = Input.GetAxis("Mouse Y") * speedMouseV;
+        moveMouseV = Input.GetAxis("Mouse Y") * speedMouseV * -1;
+
+        // moveMouseV = Mathf.Clamb(moveMouseV, -60f, 65f);
 
         // Mover personaje de acuerdo a la camara
         gameObject.transform.Rotate(0, moveMouseH, 0);
+
+        // camera.transform.localEulerAngles = new Vector3(moveMouseV, 0, 0);  
         camera.transform.Rotate(moveMouseV, 0, 0);
 
 
