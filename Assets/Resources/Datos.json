@@ -1,0 +1,41 @@
+{
+	"stand":[
+	      {
+	        "title": "Administracion Basica",
+	        "description": "Esto es una descripcion de administracion",
+	        "image": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FAdmin%2Fimagenes-casa-abierta-admin-empresa-1.jpg?alt=media&token=bcfb601d-e985-41b0-b45d-507991e0b91es",
+	        "video": ""
+	      },
+	      {
+	        "title": "Administracion Basica II",
+	        "description": "Esto es una descripcion de administracion II",
+	        "image": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FAdmin%2Fimagenes-casa-abierta-admin-empresa-2.jpg?alt=media&token=09d3e0d2-c64e-4784-912d-b870096a08ae",
+	        "video": ""
+	      },
+	  	
+	  	  {
+	        "title": "Economia Basica",
+	        "description": "Esto es una descripcion de economia",
+	        "image": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FEconomia%20%2Fimagenes-casa-abierta-economia-1.jpg?alt=media&token=9ff03e33-8cd5-46a6-9976-5407db43a79e",
+	        "video": ""
+	      },
+	      {
+	        "title": "Economia Basica II",
+	        "description": "Esto es una descripcion de economia II",
+	        "image": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FEconomia%20%2Fimagenes-casa-abierta-economia-2.jpg?alt=media&token=0769bca0-1ce0-4a57-a991-bbc301de26fa",
+	        "video": ""
+	      },
+		  {
+	        "title": "Contabilidad Basica ",
+	        "description": "Esto es una descripcion de Contabilidad",
+	        "image": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FContabilidad%2Fimagenes-casa-abierta-contabilidad-1.jpg?alt=media&token=74cadb5c-cfd6-46ec-b185-163ec142b789",
+	        "video": ""
+	      },
+	      {
+	        "title": "Contabilidad Basica II",
+	        "description": "Esto es una descripcion de Contabilidad II",
+	        "image": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FContabilidad%2Fimagenes-casa-abierta-contabilidad-2.jpg?alt=media&token=b0c95f6d-22f8-45d4-81bd-fc8b2a05b32b",
+	        "video": ""
+	      }  	
+	]
+}
